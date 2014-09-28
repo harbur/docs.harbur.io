@@ -28,8 +28,3 @@ How do I cancel my account?
 
 During beta, in order to cancel your account please contact us directly at support@harbur.io
 
-Am I charged while my container is stopped?
--------------------------------------------
-
-Am I charged while my container is terminated/destroyed?
---------------------------------------------------------
