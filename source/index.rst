@@ -4,7 +4,7 @@ Introduction
 What is Harbur?
 ---------------
 
-`Harbur <http://www.harbur.io/>`__ is a docker-based service provider focused on delivering high-quality services of OSS solutions. Basically we take the heavy lifting of installation/deployment/integration/monitoring/maintainance/scaling of your software factory using well established OSS software you know and trust.
+`Harbur <http://www.harbur.io/>`__ is a docker-based service provider focused on delivering high-quality services of OSS solutions. Basically we take the heavy lifting of installation / deployment / integration / monitoring / maintenance / scaling of your software factory using well established OSS software you know and trust.
 
 What is Docker?
 ---------------
