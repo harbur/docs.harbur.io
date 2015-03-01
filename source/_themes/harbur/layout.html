@@ -147,7 +147,8 @@ mixpanel.init("267c0dc6f1ac0f79dafbf3e0152fd2b4");</script><!-- end Mixpanel -->
 $(window).load(function(){
 mixpanel.track('pageview', {
     'page name' : document.title,
-    'url' : window.location.pathname
+    'url' : window.location.pathname,
+    'origin' : window.location.origin
   });
 });
 </script>
