@@ -4,7 +4,7 @@ Introduction
 What is Harbur?
 ---------------
 
-`Harbur <http://www.harbur.io/>`__ is a docker-based service provider focused on delivering high-quality services of OSS solutions. Basically we take the heavy lifting of installation / deployment / integration / monitoring / maintenance / scaling of your software factory using well established OSS software you know and trust.
+`Harbur <https://www.harbur.io/>`__ is a service that helps you find, share and launch docker-based solution stacks on any environment.
 
 What is Docker?
 ---------------
@@ -15,12 +15,6 @@ What is Docker?
 What does Harbur provide?
 -------------------------
 
-Harbur is a full-stack Application Lifecycle Management provider. It uses OSS software to deliver the solution so that you are able to migrate from any existing solution easily and avoid any type of vendor lock-in.
-
-But that's not all: Harbur also provides an easy integration with 3rd party services so that you can extend your ecosystem as you wish. Monitoring, scaling and others. Instead of limiting our support to on-premise tools only, we embrace integration of known services - such as Github for example - in order to let you take control of the decisions of your own infrastructure.
-
-We find that the OSS community of the development tools is an excelent example of pristine work. The extensibily of those tools is one of their biggest advantages. Our objective is to create a reference point where you can find fully documented integration between those tools without the suffering.
-
-With Harbur you'll experience the flexibility and control of self-hosted solutions, and the speed and ease-of-use of SaaS providers.
+Harbur provide an easy way to find, share and distribute docker-based solution stacks. You have a cool docker-compose file that want to share with a fellow developer? You can simply upload it under your namespace and it can be run with a simple one-liner on any machine that runs docker using the Harbur CLI. You can use the service to centrally manage your docker-compose scripts across your clusterized environment and avoid the hassle of updating versions on distributed systems.
 
 Head to our Getting Started with Harbur to find out how to make use of our service.

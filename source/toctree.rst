@@ -4,8 +4,7 @@
    :hidden:
 
    index
-   billing/index
-   technical/index
+   getting_started/index
    features/index
    reference/index
-   applications/index
+
