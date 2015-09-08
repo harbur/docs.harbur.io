@@ -1,10 +1,14 @@
 .. toctree::
-   :maxdepth: 2
-   :titlesonly:
-   :hidden:
+   :maxdepth: 1
 
    index
    getting_started/index
-   features/index
-   reference/index
+       getting_started/installation/index
+   	   getting_started/troubleshooting/index
 
+
+.. toctree::                                                                    
+   :hidden:                                                                     
+
+   part1                                                                        
+   part2
