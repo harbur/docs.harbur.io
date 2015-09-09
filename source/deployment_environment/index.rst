@@ -21,6 +21,10 @@ We use `Consul <https://www.consul.io/>`_ as a Service Discovery process.
 We use `Registrator <http://gliderlabs.com/registrator/latest/>`_ as a Service registry bridge for Docker.
 
 .. note::
+    Another use case for this is when you have a module with a C extension.
+
+
+.. note::
 
 	Registrator automatically registers and deregisters services for any Docker container by inspecting containers as they come online.
 
