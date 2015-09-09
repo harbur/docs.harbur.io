@@ -1,0 +1,14 @@
+ .admonition-title{
+  	margin: -12px;
+  	padding: 6px 12px;
+  	margin-bottom: 12px;
+   	color: #fff;
+ 	background:#6ab0de;
+ }
+
+ .note {
+ 	padding: 12px;
+ 	background: #e7f2fa;
+	line-height: 24px;
+  	margin-bottom: 24px;
+ }
