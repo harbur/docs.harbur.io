@@ -13,6 +13,18 @@ In order to install it in Mac do:
 
     brew install fleetctl
 
+In order to install it in Ubuntu do:
+
+.. sourcecode:: bash
+
+  git clone https://github.com/coreos/fleet.git
+  cd fleet
+  git checkout TAG_VERSION
+  ./build-docker
+  sudo mv bin/fleetctl /usr/local/bin/
+
+Note: Check your cluster's fleetctl version to set the adequate TAG_VERSION.
+
 To configure fleetctl, add the following content on the ~/.harburrc file
 
 .. sourcecode:: bash
